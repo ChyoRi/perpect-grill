@@ -1,0 +1,25 @@
+table {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.video_box {
+  padding: 0px 50px;
+}
+
+.video_box.margin{
+  margin-bottom: 50px;
+}
+
+.background {
+  background-color: #F9F9F9;
+}
+
+.blind {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+}
